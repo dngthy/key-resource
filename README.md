@@ -1,6 +1,7 @@
 # key-resource
-# password = flag
+# password = 20flag22
 
+```
 const readline = require('readline').createInterface({
     input: process.stdin,
     output: process.stdout
